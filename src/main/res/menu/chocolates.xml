@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/choc_milk"
+        android:title="Milk Chocolate"
+        android:orderInCategory="10"
+        />
+    <item
+        android:id="@+id/choc_dark"
+        android:title="Dark Chocolate"
+        android:orderInCategory="20"/>
+    <item
+        android:id="@+id/choc_white"
+        android:title="White Chocolate"
+        android:orderInCategory="30"/>
+</menu>

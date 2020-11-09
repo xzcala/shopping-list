@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="select_an_option">Select an Option!</string>
+    <string name="chocolate">Chocolate</string>
+</resources>
